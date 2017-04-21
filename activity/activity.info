@@ -1,0 +1,8 @@
+[Activity]
+name = Eleusis
+activity_version = 6 
+host_version = 1
+bundle_id = mulawa.Eleusis
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
