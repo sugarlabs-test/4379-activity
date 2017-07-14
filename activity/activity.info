@@ -6,3 +6,6 @@ bundle_id = mulawa.Eleusis
 icon = activity
 show_launcher = yes
 exec = sugar-activity activity.PeterActivity
+license = Default
+summary = A really long summary
+categories = activites number test
